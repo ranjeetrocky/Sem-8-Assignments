@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 15_Manankumar_Domadiya -->
+
+    <item
+        android:id="@+id/a1"
+        android:title="Answere 1"/>
+    <item
+        android:id="@+id/a2"
+        android:title="Answere 2"/>
+    <item
+        android:id="@+id/a3"
+        android:title="Answere 3"/>
+    <item
+        android:id="@+id/a4"
+        android:title="Answere 4"/>
+    <item
+        android:id="@+id/a5"
+        android:title="Answere 5"/>
+    <!-- 15_Manankumar_Domadiya -->
+
+</menu>
